@@ -1,0 +1,38 @@
+D:\ESOFT\All Bill\All Bill\bin\Debug\All Bill.exe.config
+D:\ESOFT\All Bill\All Bill\bin\Debug\All Bill.exe
+D:\ESOFT\All Bill\All Bill\bin\Debug\All Bill.pdb
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.frmAdminDashboard.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.Properties.Resources.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All Bill.csproj.GenerateResource.cache
+D:\ESOFT\All Bill\All Bill\obj\Debug\All Bill.csproj.CoreCompileInputs.cache
+D:\ESOFT\All Bill\All Bill\obj\Debug\All Bill.exe
+D:\ESOFT\All Bill\All Bill\obj\Debug\All Bill.pdb
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.frmUserDashboard.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All Bill.csprojAssemblyReference.cache
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmUsers.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmLogin.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmCategories.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmProducts.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmDealCust.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmPerchaseSales.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmTransactions.resources
+D:\ESOFT\All Bill\All Bill\obj\Debug\All_Bill.UI.frmInventory.resources
+D:\ESOFT\DISE\All Bill\All Bill\bin\Debug\All Bill.exe.config
+D:\ESOFT\DISE\All Bill\All Bill\bin\Debug\All Bill.exe
+D:\ESOFT\DISE\All Bill\All Bill\bin\Debug\All Bill.pdb
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All Bill.csprojAssemblyReference.cache
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.frmAdminDashboard.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmCategories.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmDealCust.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmInventory.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmLogin.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmPerchaseSales.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmProducts.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmTransactions.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.frmUserDashboard.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.Properties.Resources.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All_Bill.UI.frmUsers.resources
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All Bill.csproj.GenerateResource.cache
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All Bill.csproj.CoreCompileInputs.cache
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All Bill.exe
+D:\ESOFT\DISE\All Bill\All Bill\obj\Debug\All Bill.pdb
